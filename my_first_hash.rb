@@ -32,4 +32,4 @@ def adding
    
       puts shipping_manifest
    end 
-   
+   {"gun powder"=>4, "muskets"=>2, "oil paintings"=>3, "porcelainvases"=>2, "whale bone corsets"=>5}
