@@ -8,16 +8,6 @@ def  my_hash
                         "porcelain vases" => 2, 
                         "oil paintings" => 3
       }
-      old_timey_items = []
-              values_ar= [5,2,3]
-              keys_ar=["whale bone corsets", "porcelain vase", "oil paintings"]
-            if the_manifest.keys <=> keys_ar
-              while the_manifest.values <=> values_ar 
-              puts keys_ar|values_ar
-              ["whale bone corsets", 5, "porcelain vases", 2, "oil paintings"  ]
-              old_timey_items = [] <<  ["whale bone corsets", 5, "porcelain vases", 2, "oil paintings"  ]
-  end  
-end 
 end 
         
 def retrieval
