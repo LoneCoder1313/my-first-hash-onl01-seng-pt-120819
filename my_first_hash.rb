@@ -37,4 +37,10 @@ def adding
    
       puts shipping_manifest 
 end 
-     
+      {
+                       "whale bone corsets" => 5,
+                       "porcelain vases" => 2,
+                       "oil paintings" => 3,
+                       "muskets" => 2,
+                       "gun powder" => 4
+      }
