@@ -29,8 +29,12 @@ def adding
    shipping_manifest["muskets"]= 2 
                 
    shipping_manifest["gun powder"]= 4
-   shipping_manifest= {
-   
+   shipping_manifest= { "whale bone corsets" => 5,
+                       "porcelain vases" => 2,
+                       "oil paintings" => 3,
+                       "muskets" => 2,
+                       "gun powder" => 4
+                       }
       puts shipping_manifest
    end 
    {"gun powder"=>4, "muskets"=>2, "oil paintings"=>3, "porcelainvases"=>2, "whale bone corsets"=>5}
